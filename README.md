@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to MSS GitHub page.
 
-<!--
-**MSS00/MSS00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![alt text](https://i.imgur.com/nURB94Y.jpg "MSS Logo")
 
-Here are some ideas to get you started:
+## Currently maintaining these projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* MSS00/finobevisor
+* MSS00/mrkod-net-frontend
+
+## Partially maintaining (less updates [not LTS lol]):
+
+* MSS00/homeland-frontend-legacy
+
+All other repos were experiments or closed projects.
+
+## Contacts
+
+* [E-Mail](mailto:mrkodomoh64@hotmail.com)
+
+**ANY OTHER SOCIAL NETWORK PROFILES OR E-MAILS EITHER ABANDONED OR FAKE.**
