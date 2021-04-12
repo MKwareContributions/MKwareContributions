@@ -7,11 +7,11 @@
 * MSS00/finobevisor
 * MSS00/mrkod-net-frontend
 
-## Partially maintaining (less updates [not LTS lol]):
+## Partially maintaining (less updates):
 
 * MSS00/homeland-frontend-legacy
 
-All other repos were experiments or closed projects.
+All other repos were experiments or discontinued projects.
 
 ## Contacts
 
