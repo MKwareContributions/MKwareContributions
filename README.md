@@ -7,7 +7,7 @@
 * MSS00/finobevisor
 * MSS00/mrkod-net-frontend
 
-## Out of support:
+## Discontinued:
 
 * http://legacyhomeland.html-5.me
 * http://homeland.html-5.me/
