@@ -7,14 +7,15 @@
 * MSS00/finobevisor
 * MSS00/mrkod-net-frontend
 
-## Partially maintaining (less updates):
+## Out of support:
 
-* MSS00/homeland-frontend-legacy
+* http://legacyhomeland.html-5.me
+* http://homeland.html-5.me/
+* Finobe Web Client (finobewebphp)
 
-All other repos were experiments or discontinued projects.
+
+All other repos were experiments.
 
 ## Contacts
 
 * [E-Mail](mailto:mrkodomoh64@hotmail.com)
-
-**ANY OTHER SOCIAL NETWORK PROFILES OR E-MAILS EITHER ABANDONED OR FAKE.**
