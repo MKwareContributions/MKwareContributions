@@ -4,7 +4,6 @@
 
 ## Currently maintaining these projects:
 
-* MSS00/finobevisor
 * MSS00/mrkod-net-frontend
 
 ## Discontinued:
@@ -12,7 +11,7 @@
 * http://legacyhomeland.html-5.me
 * http://homeland.html-5.me/
 * Finobe Web Client (finobewebphp)
-
+* Finobevisor
 
 All other repos were experiments.
 
