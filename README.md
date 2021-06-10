@@ -18,3 +18,4 @@ All other repos were experiments.
 ## Contacts
 
 * [E-Mail](mailto:mknetceo@gmail.com)
+* [Jabber](xmpp://mrkod@xabber.de)
