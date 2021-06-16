@@ -17,5 +17,5 @@ All other repos were experiments.
 
 ## Contacts
 
-* [E-Mail](mailto:mknetceo@gmail.com)
+* [E-Mail](mailto:mssceo@tutanota.de)
 * Jabber: mrkod@xabber.de
