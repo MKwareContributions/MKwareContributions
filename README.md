@@ -2,8 +2,9 @@
 
 ![alt text](https://i.imgur.com/QlUzTCs.png "MSS Logo")
 
-## Currently maintaining these projects:
+## Currently working on:
 
+* MSS00/bloxdossier
 * MSS00/mrkod-net-frontend
 
 ## Discontinued:
