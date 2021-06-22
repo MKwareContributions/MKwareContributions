@@ -1,6 +1,6 @@
 # Welcome to MSS GitHub page.
 
-![alt text](https://i.imgur.com/S5KFJi8.png "MSS Logo")
+![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
 
 ## Currently working on:
 
