@@ -6,6 +6,7 @@
 
 * MSS00/bloxdossier
 * MSS00/mrkod-net-frontend
+* MSS00/8ball
 
 ## Discontinued:
 
