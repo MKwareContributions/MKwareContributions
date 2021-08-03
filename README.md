@@ -21,4 +21,4 @@ All other repos were experiments.
 
 ## Contact info
 
-* [E-Mail](mailto:mssceo@tutanota.de)
+* [E-mail](mailto:mssceo@tutanota.de)
