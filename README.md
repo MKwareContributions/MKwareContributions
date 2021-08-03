@@ -8,6 +8,7 @@
 * MSS00/mknet
 * MSS00/8ball
 * MSS00/ONRM
+* MSS00/cringfetch
 
 ## Discontinued:
 
