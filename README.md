@@ -13,7 +13,6 @@
 ## Discontinued:
 
 * Homeland, but for ol' browsers, but again, free hosting flipped me off.
-* Alpha version of Homeland, with the same fate as the legacy version.
 * Finobe Web Client (finobewebphp)
 * Finobevisor
 
