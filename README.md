@@ -18,6 +18,8 @@
 
 All other repos were experiments.
 
+Almost in all projects Visual Studio 2013 was used. If you want to work with my projects, I would recommend installing VS 2013 or newer.
+
 ## Contact info
 
 * [E-mail](mailto:mssceo@tutanota.de)
