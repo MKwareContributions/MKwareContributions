@@ -1,4 +1,4 @@
-# Welcome to MSS GitHub page.
+# Welcome to MSS Github page.
 
 ![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
 
