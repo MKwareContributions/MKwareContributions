@@ -14,6 +14,12 @@
 | ![MSS00/mssdc](https://github.com/MSS00/mssdc) | ❖ (mirror) |
 | ![MSS00/Pangu7Untether](https://github.com/MSS00/Pangu7Untether) | ❖ (fork) |
 
+✔ - Yes
+
+✖ - No
+
+❖ - Other (see note)
+
 All of my C# projects were written in Microsoft Visual Studio 2013.
 
 ## Contact info
