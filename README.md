@@ -2,23 +2,19 @@
 
 ![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
 
-## Currently working on:
+| Repo | Active? |
+| ----------- | ----------- |
+| ![MSS00/ONRM](https://github.com/MSS00/ONRM) | ✔ |
+| ![MSS00/mknet](https://github.com/MSS00/mknet) | ✔ |
+| ![MSS00/cringfetch](https://github.com/MSS00/cringfetch)| ✔ |
+| ![MSS00/8ball](https://github.com/MSS00/8ball)| ✔ |
+| ![MSS00/uulc](https://github.com/MSS00/uulc) | ❖ (experiment) |
+| ![MSS00/engineergaming](https://github.com/MSS00/engineergaming) | ❖ (experiment) |
+| ![MSS00/finobevisor](https://github.com/MSS00/finobevisor) | ✖ |
+| ![MSS00/mssdc](https://github.com/MSS00/mssdc) | ❖ (mirror) |
+| ![MSS00/Pangu7Untether](https://github.com/MSS00/Pangu7Untether) | ❖ (fork) |
 
-* MSS00/bloxdossier
-* MSS00/mknet
-* MSS00/8ball
-* MSS00/ONRM
-* MSS00/cringfetch
-
-## Discontinued:
-
-* Homeland, but for ol' browsers, but again, free hosting flipped me off.
-* Finobe Web Client (finobewebphp)
-* Finobevisor
-
-All other repos were experiments.
-
-Almost in all projects Visual Studio 2013 was used. If you want to work with my projects, I would recommend installing VS 2013 or newer.
+All of my C# projects were written in Microsoft Visual Studio 2013.
 
 ## Contact info
 
