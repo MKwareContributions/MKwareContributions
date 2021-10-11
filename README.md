@@ -21,13 +21,13 @@
 ³ - mirror for MSS Download Center, will close if mknet will close
 
 ⁴ - fork (no further work on it)
-
+***
 ✔ - Yes
 
 ✖ - No
 
 ❖ᵡ - Other (see note)
-
+***
 All of my C# projects were written in Microsoft Visual Studio 2013.
 
 ## Contact info
