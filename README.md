@@ -1,7 +1,5 @@
 # Welcome to MSS Github page.
 
-![alt text](https://i.imgur.com/0ukTVB1.png "MSS Logo")
-
 | Repo | Active? |
 | ----------- | ----------- |
 | ![MSS00/ONRM](https://github.com/MSS00/ONRM) | ✔ |
