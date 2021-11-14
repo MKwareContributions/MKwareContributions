@@ -5,7 +5,7 @@
 | ![MSS00/ONRM](https://github.com/MSS00/ONRM) | ✔ |
 | ![MSS00/mknet](https://github.com/MSS00/mknet) | ✔ |
 | ![MSS00/cringfetch](https://github.com/MSS00/cringfetch)| ✔ |
-| ![MSS00/8ball](https://github.com/MSS00/8ball)| ✔ |
+| ![MSS00/8ball](https://github.com/MSS00/8ball)| ✖ |
 | ![MSS00/uulc](https://github.com/MSS00/uulc) | ❖¹ |
 | ![MSS00/engineergaming](https://github.com/MSS00/engineergaming) | ❖² |
 | ![MSS00/finobevisor](https://github.com/MSS00/finobevisor) | ✖ |
