@@ -10,7 +10,7 @@
 | ![MKware00/mkwdc](https://github.com/MKware00/mkwdc) | ❖¹ |
 | ![MKware00/Pangu7Untether](https://github.com/MKware00/Pangu7Untether) | ✖ |
 
-¹ - mirror for MKW Download Center, will close if mknet will close
+¹ - mirror for MKWare Download Center, will close if mknet will close
 
 ***
 ✔ - Yes
