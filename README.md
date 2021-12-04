@@ -1,16 +1,16 @@
-# Welcome to MSS Github page.
+﻿# Welcome to MKware Github page.
 
 | Repo | Active? |
 | ----------- | ----------- |
-| ![MSS00/ONRM](https://github.com/MSS00/ONRM) | ✔ |
-| ![MSS00/mknet](https://github.com/MSS00/mknet) | ✔ |
-| ![MSS00/cringfetch](https://github.com/MSS00/cringfetch)| ✔ |
-| ![MSS00/8ball](https://github.com/MSS00/8ball)| ✖ |
-| ![MSS00/finobevisor](https://github.com/MSS00/finobevisor) | ✖ |
-| ![MSS00/mssdc](https://github.com/MSS00/mssdc) | ❖¹ |
-| ![MSS00/Pangu7Untether](https://github.com/MSS00/Pangu7Untether) | ✖ |
+| ![MKware00/ONRM](https://github.com/MKware00/ONRM) | ✔ |
+| ![MKware00/mknet](https://github.com/MKware00/mknet) | ✔ |
+| ![MKware00/cringfetch](https://github.com/MKware00/cringfetch)| ✔ |
+| ![MKware00/8ball](https://github.com/MKware00/8ball)| ✖ |
+| ![MKware00/finobevisor](https://github.com/MKware00/finobevisor) | ✖ |
+| ![MKware00/mssdc](https://github.com/MKware00/mkwdc) | ❖¹ |
+| ![MKware00/Pangu7Untether](https://github.com/MKware00/Pangu7Untether) | ✖ |
 
-¹ - mirror for MSS Download Center, will close if mknet will close
+¹ - mirror for MKW Download Center, will close if mknet will close
 
 ***
 ✔ - Yes
