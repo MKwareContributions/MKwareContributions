@@ -23,4 +23,4 @@ All of my C# projects were written in Microsoft Visual Studio 2013.
 
 ## Contact info
 
-* [E-mail](mailto:mssceo@tutanota.de)
+* [E-mail](mailto:admin@mkware.eu.org)
