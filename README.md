@@ -3,7 +3,7 @@
 | Repo | Active? |
 | ----------- | ----------- |
 | ![MKware00/ONRM](https://github.com/MKware00/ONRM) | ✔ |
-| ![MKware00/mknet](https://github.com/MKware00/mknet) | ✔ |
+| ![MKware00/www-mkware](https://github.com/MKware00/www-mkware) | ✔ |
 | ![MKware00/cringfetch](https://github.com/MKware00/cringfetch)| ✔ |
 | ![MKware00/8ball](https://github.com/MKware00/8ball)| ✖ |
 | ![MKware00/finobevisor](https://github.com/MKware00/finobevisor) | ✖ |
