@@ -2,17 +2,17 @@
 
 | Repo | Active? |
 | ----------- | ----------- |
-| ![MKware00/ONRM](https://github.com/MKware00/ONRM) | ❖² |
+| ![MKware00/ONRM](https://github.com/MKware00/ONRM) | ❖¹ |
 | ![MKware00/www-mkware](https://github.com/MKware00/www-mkware) | ✔ |
 | ![MKware00/cringfetch](https://github.com/MKware00/cringfetch)| ✔ |
 | ![MKware00/8ball](https://github.com/MKware00/8ball)| ✖ |
 | ![MKware00/finobevisor](https://github.com/MKware00/finobevisor) | ✖ |
-| ![MKware00/mkwdc](https://github.com/MKware00/mkwdc) | ❖¹ |
+| ![MKware00/mkwdc](https://github.com/MKware00/mkwdc) | ❖² |
 | ![MKware00/Pangu7Untether](https://github.com/MKware00/Pangu7Untether) | ✖ |
 
-¹ - mirror for MKWare Download Center, will close if MKware website will close
+¹ - temporarily closed, because .csproj file is missing, which is required for compilation
 
-² - Temporarily closed, because .csproj file is missing, which is required for compilation
+² - mirror for MKWare Download Center, will close if MKware website will close
 
 ***
 ✔ - Yes
