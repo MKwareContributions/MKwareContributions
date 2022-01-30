@@ -11,7 +11,7 @@
 | ![MKware00/Pangu7Untether](https://github.com/MKware00/Pangu7Untether) | ✖ |
   
   
-¹ - mirror for MKWare Download Center, will close if MKware website will close
+¹ - mirror for MKware Download Center, will close if MKware website will close
 
 
 ✔ - Active
