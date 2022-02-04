@@ -19,8 +19,6 @@
 ✖ - Inactive
 
 ❖ᵡ - Other (see note)
-***
-All of my C# projects were written in Microsoft Visual Studio 2013.
 
 ## Contact info
 
