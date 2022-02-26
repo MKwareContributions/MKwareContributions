@@ -19,6 +19,6 @@
 
 ❖ᵡ - Other (see note)
 
-## Contact info
+## Contact me
 
 * [E-mail](mailto:admin@mkware.eu.org)
