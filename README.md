@@ -1,4 +1,4 @@
-# Welcome to MKware Github page.
+<h1 align= "center"> Welcome to MKware Github page.</h1>
 
 | Repo | Status |
 | ----------- | :---------: |
@@ -17,11 +17,7 @@
 
 ✖ - Inactive
 
-❖ᵡ - Other (see note)
-
-***
-
-[My PC specs](https://github.com/MKware00/cringfetch#cringfetch) (pls don't laugh)
+❖ᵡ - Other (see notes)
 
 ## Contact me
 
