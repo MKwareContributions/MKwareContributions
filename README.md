@@ -19,6 +19,8 @@
 
 ❖ᵡ - Other (see note)
 
+[My PC specs](https://github.com/MKware00/cringfetch#cringfetch) (pls don't laugh)
+
 ## Contact me
 
 * [E-mail](mailto:admin@mkware.eu.org)
