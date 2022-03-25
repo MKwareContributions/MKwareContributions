@@ -1,27 +1,11 @@
-<h1 align= "center"> Welcome to MKware Github page.</h1>
+<h1 align= "center"> We have moved</h1>
 
-| Repo | Status |
-| ----------- | :---------: |
-| ![MKware00/9ball](https://github.com/MKware00/9ball)| ❖¹ |
-| ![MKware00/ONRM](https://github.com/MKware00/ONRM) | ✔ |
-| ![MKware00/www-mkware](https://github.com/MKware00/www-mkware) | ✔ |
-| ![MKware00/cringfetch](https://github.com/MKware00/cringfetch)| ✔ |
-| ![MKware00/8ball](https://github.com/MKware00/8ball)| ✖ |
-| ![MKware00/mkwdc](https://github.com/MKware00/mkwdc) | ❖² |
-| ![MKware00/Pangu7Untether](https://github.com/MKware00/Pangu7Untether) | ✖ |
-  
-  
-¹ - Work in progress.
-
-² - mirror for MKware Download Center.
+Due to U.S. trade controls law restrictions and MKware's location in "U.S.-sanctioned region", Github has closed access to private repositories and couple of other things for this account. As a result, I had to move all repositories to other git hosting.
 
 
-✔ - Active
+New location of repositories: https://codeberg.org/MKware
 
-✖ - Inactive
 
-❖ᵡ - Other (see notes)
+All repositories will remain here, however, they will no longer be updated until U.S. government changes their mind.
 
-## Contact me
-
-* [E-mail](mailto:admin@mkware.eu.org)
+<h1 align= "center">https://mkware.eu.org/</h1>
