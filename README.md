@@ -6,6 +6,6 @@ Due to U.S. trade controls law restrictions and MKware's location in "U.S.-sanct
 New location of repositories: [https://git.sr.ht/~mkware/](https://git.sr.ht/~mkware/)
 
 
-All repositories will remain here, however, they will no longer be updated until U.S. government changes their mind.
+All repositories will remain here, however, they will no longer get updated.
 
 <h1 align= "center">https://mkware.eu.org/</h1>
